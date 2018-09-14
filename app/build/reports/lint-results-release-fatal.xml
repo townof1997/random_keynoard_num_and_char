@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 2.3.3">
+
+    <issue
+        id="ResourceName"
+        severity="Fatal"
+        message="Resource named &apos;`icon_keyboard_capital_default`&apos; does not start with the project&apos;s resource prefix &apos;`keyboard_`&apos;; rename to &apos;`keyboard_icon_keyboard_capital_default`&apos; ?"
+        category="Correctness"
+        priority="8"
+        summary="Resource with Wrong Prefix"
+        explanation="In Gradle projects you can specify a resource prefix that all resources in the project must conform to. This makes it easier to ensure that you don&apos;t accidentally combine resources from different libraries, since they all end up in the same shared app namespace.">
+        <location
+            file="D:\as_keyboard_custom\SafeKeyBoard-master\keyboard\src\main\res\drawable-xxhdpi\icon_keyboard_capital_default.png"/>
+    </issue>
+
+    <issue
+        id="ResourceName"
+        severity="Fatal"
+        message="Resource named &apos;`icon_keyboard_capital_selected`&apos; does not start with the project&apos;s resource prefix &apos;`keyboard_`&apos;; rename to &apos;`keyboard_icon_keyboard_capital_selected`&apos; ?"
+        category="Correctness"
+        priority="8"
+        summary="Resource with Wrong Prefix"
+        explanation="In Gradle projects you can specify a resource prefix that all resources in the project must conform to. This makes it easier to ensure that you don&apos;t accidentally combine resources from different libraries, since they all end up in the same shared app namespace.">
+        <location
+            file="D:\as_keyboard_custom\SafeKeyBoard-master\keyboard\src\main\res\drawable-xxhdpi\icon_keyboard_capital_selected.png"/>
+    </issue>
+
+    <issue
+        id="ResourceName"
+        severity="Fatal"
+        message="Resource named &apos;`icon_shuzi_keyboard_del_default`&apos; does not start with the project&apos;s resource prefix &apos;`keyboard_`&apos;; rename to &apos;`keyboard_icon_shuzi_keyboard_del_default`&apos; ?"
+        category="Correctness"
+        priority="8"
+        summary="Resource with Wrong Prefix"
+        explanation="In Gradle projects you can specify a resource prefix that all resources in the project must conform to. This makes it easier to ensure that you don&apos;t accidentally combine resources from different libraries, since they all end up in the same shared app namespace.">
+        <location
+            file="D:\as_keyboard_custom\SafeKeyBoard-master\keyboard\src\main\res\drawable-xxhdpi\icon_shuzi_keyboard_del_default.png"/>
+    </issue>
+
+    <issue
+        id="ResourceName"
+        severity="Fatal"
+        message="Resource named &apos;`icon_yingwen_fuhao_keyboard_del_default`&apos; does not start with the project&apos;s resource prefix &apos;`keyboard_`&apos;; rename to &apos;`keyboard_icon_yingwen_fuhao_keyboard_del_default`&apos; ?"
+        category="Correctness"
+        priority="8"
+        summary="Resource with Wrong Prefix"
+        explanation="In Gradle projects you can specify a resource prefix that all resources in the project must conform to. This makes it easier to ensure that you don&apos;t accidentally combine resources from different libraries, since they all end up in the same shared app namespace.">
+        <location
+            file="D:\as_keyboard_custom\SafeKeyBoard-master\keyboard\src\main\res\drawable-xxhdpi\icon_yingwen_fuhao_keyboard_del_default.png"/>
+    </issue>
+
+</issues>

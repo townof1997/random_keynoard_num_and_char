@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\as_keyboard_custom\SafeKeyBoard-master\keyboard\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ec4c891bbdd0748febe8b0ac06b39bc3a2b4c78d">
+        <dex dex="D:\as_keyboard_custom\SafeKeyBoard-master\app\build\intermediates\pre-dexed\debug\classes_bc5c87783f7fdc4aab8bbbbc52c5618f777fa5d3.jar" />
+    </item>
+
+</items>

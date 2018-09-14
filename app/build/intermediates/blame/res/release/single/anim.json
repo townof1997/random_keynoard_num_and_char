@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\8cc5a967a5f156cb2eeccbd53bc27bf97c1a774f\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\8cc5a967a5f156cb2eeccbd53bc27bf97c1a774f\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\keyboard_anim_dismiss.xml",
+        "source": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\keyboard\\build\\intermediates\\bundles\\default\\res\\anim\\keyboard_anim_dismiss.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\keyboard_anim_start.xml",
+        "source": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\keyboard\\build\\intermediates\\bundles\\default\\res\\anim\\keyboard_anim_start.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\8cc5a967a5f156cb2eeccbd53bc27bf97c1a774f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\8cc5a967a5f156cb2eeccbd53bc27bf97c1a774f\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\8cc5a967a5f156cb2eeccbd53bc27bf97c1a774f\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\8cc5a967a5f156cb2eeccbd53bc27bf97c1a774f\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\8cc5a967a5f156cb2eeccbd53bc27bf97c1a774f\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\8cc5a967a5f156cb2eeccbd53bc27bf97c1a774f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\8cc5a967a5f156cb2eeccbd53bc27bf97c1a774f\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\dell\\.android\\build-cache\\8cc5a967a5f156cb2eeccbd53bc27bf97c1a774f\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

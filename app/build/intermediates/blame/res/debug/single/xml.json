@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_word.xml",
+        "source": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\keyboard\\build\\intermediates\\bundles\\default\\res\\xml\\keyboard_word.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_symbol.xml",
+        "source": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\keyboard\\build\\intermediates\\bundles\\default\\res\\xml\\keyboard_symbol.xml"
+    },
+    {
+        "merged": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\keyboard_numbers.xml",
+        "source": "D:\\as_keyboard_custom\\SafeKeyBoard-master\\keyboard\\build\\intermediates\\bundles\\default\\res\\xml\\keyboard_numbers.xml"
+    }
+]
